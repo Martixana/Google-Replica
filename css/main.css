@@ -163,3 +163,8 @@ a{
 	font-size:14px;
 
 }
+@media(max-width:600px){
+	.searchBox input{
+		width:80%;
+	}
+}
